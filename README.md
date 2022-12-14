@@ -34,10 +34,24 @@ https://pythoninchemistry.org/getting-started -  введение в Python дл
 
 **https://weisscharlesj.github.io/SciCompforChemists/intro.html - Scientific Computing for Chemists with Python. Тоже очень крутая книга по программированию с применением в химии. Очень хорошо написано и представленно применение в различных областях химии.**
 
+https://www.kaggle.com/learn - Курсы на kaggle с сертификатами (но знания намного важнее)
+
+https://www.elementsofai.com/ - очень базовые знания по ИИ
+
 # Книги
 
 https://vk.com/chemoinformatics?w=wall-107190233_3836 - крутая подборка книг по хемоинформатике и другим областям вычислительной химии.
 
-https://link.springer.com/book/10.1007/978-1-4020-6291-9 - Введение в хемоинформатику. Описанны основные алгоритмы, типа данных, представлений молекул.
+https://link.springer.com/book/10.1007/978-1-4020-6291-9 - Введение в хемоинформатику. Описанны основные алгоритмы, типа данных, представлений молекул. Было интересно прочитать про то как получают canonical SMILES. Короткая и легко читается.
+
+https://onlinelibrary.wiley.com/doi/book/10.1002/9783527618279 - как предыдущая, но на 2000 страниц... можно использовать как справочник. Много алгоритмов в RDKit реализованно с ссылкой на эту книгу.
 
 https://www.degruyter.com/document/doi/10.1515/9783110629453/html - Data Science in Chemistry
+
+# Другое
+
+https://github.com/CrawfordGroup/ProgrammingProjects - C++ для химиков
+
+https://github.com/deepchem/deepchem/tree/master/examples/tutorials - Уроки по библиотеке deepchem (библиотека для МЛ ДЛ для химии/биологии)
+
+
