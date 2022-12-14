@@ -48,6 +48,8 @@ https://onlinelibrary.wiley.com/doi/book/10.1002/9783527618279 - как пред
 
 https://www.degruyter.com/document/doi/10.1515/9783110629453/html - Data Science in Chemistry
 
+https://www.oreilly.com/library/view/deep-learning-for/9781492039822/, https://github.com/deepchem/DeepLearningLifeSciences?ysclid=lbnljsywd5870103615 - МЛ/ДЛ для химии/биологии. Но по химии одна маленькая глава. Все остальное по биологии.
+
 # Другое
 
 https://github.com/CrawfordGroup/ProgrammingProjects - C++ для химиков
