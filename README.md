@@ -52,6 +52,6 @@ https://www.degruyter.com/document/doi/10.1515/9783110629453/html - Data Science
 
 https://github.com/CrawfordGroup/ProgrammingProjects - C++ для химиков
 
-https://github.com/deepchem/deepchem/tree/master/examples/tutorials - Уроки по библиотеке deepchem (библиотека для МЛ ДЛ для химии/биологии)
+https://github.com/deepchem/deepchem/tree/master/examples/tutorials - Уроки по библиотеке deepchem, их много, они понятные(библиотека для МЛ ДЛ для химии/биологии)
 
 
