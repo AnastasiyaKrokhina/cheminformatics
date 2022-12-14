@@ -32,7 +32,7 @@ https://pythoninchemistry.org/getting-started -  введение в Python дл
 
 **https://dmol.pub/index.html - очень крутая книга по применению глубокого обученния для дизайна молекул и материалов. Объясняет довольно сложные концепции, но понятно.**
 
-**https://weisscharlesj.github.io/SciCompforChemists/intro.html - Scientific Computing for Chemists with Python. Тоже очень крутая книга по программированию с применением в химии. Очень хорошо написано и представленно применение в различных областях химии.**
+**https://weisscharlesj.github.io/SciCompforChemists/intro.html - Scientific Computing for Chemists with Python. Тоже очень крутая книга по программированию на Python с применением в химии. Очень хорошо написано и представленно применение в различных областях химии. Многие занятия для кураторских взяла из этой книги. Подходит для начинающих.**
 
 https://www.kaggle.com/learn - Курсы на kaggle с сертификатами (но знания намного важнее)
 
@@ -53,5 +53,9 @@ https://www.degruyter.com/document/doi/10.1515/9783110629453/html - Data Science
 https://github.com/CrawfordGroup/ProgrammingProjects - C++ для химиков
 
 https://github.com/deepchem/deepchem/tree/master/examples/tutorials - Уроки по библиотеке deepchem, их много, они понятные(библиотека для МЛ ДЛ для химии/биологии)
+
+https://www.youtube.com/@DataProfessor - youtube канал по анализу данных. Иногда выходят видео по хемоинформатике/биоинформатике.
+
+https://www.youtube.com/@TaylorSparks/videos - видео по материаловеденью в основном, есть подкасты, которые можно слушать пока ешь.
 
 
