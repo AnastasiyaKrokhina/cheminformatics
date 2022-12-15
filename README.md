@@ -32,6 +32,8 @@ https://pythoninchemistry.org/getting-started -  введение в Python дл
 
 **https://dmol.pub/index.html - очень крутая книга по применению глубокого обученния для дизайна молекул и материалов. Объясняет довольно сложные концепции, но понятно.**
 
+http://education.molssi.org/resources.html#programming - курсы по Python для различных уровней
+
 **https://weisscharlesj.github.io/SciCompforChemists/intro.html - Scientific Computing for Chemists with Python. Тоже очень крутая книга по программированию на Python с применением в химии. Очень хорошо написано и представленно применение в различных областях химии. Многие занятия для кураторских взяла из этой книги. Подходит для начинающих.**
 
 https://www.kaggle.com/learn - Курсы на kaggle с сертификатами (но знания намного важнее)
